@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1583326937 source:c:\users\shanto\desktop\box mover game\main.cpp
+	"BGI/graphics.h"
+	<stdio.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+
+1530989510 c:\users\shanto\desktop\box mover game\bgi\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1603250139 source:c:\users\shanto noor\desktop\box mover game\main.cpp
+	"BGI/graphics.h"
+	<stdio.h>
+	<windows.h>
+	<ctime>
+
+1583276874 c:\users\shanto noor\desktop\box mover game\bgi\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
